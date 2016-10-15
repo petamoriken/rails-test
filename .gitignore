@@ -9,6 +9,7 @@
 
 # Ignore the default SQLite database.
 /db/*
+!/db/migrate
 !/db/.keep
 
 # Ignore all logfiles and tempfiles.
