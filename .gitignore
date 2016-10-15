@@ -7,10 +7,8 @@
 # Ignore bundler config.
 /.bundle
 
-# Ignore the default SQLite database.
-/db/*
-!/db/migrate
-!/db/.keep
+# Ignore the default migrate database.
+/postgres/*
 
 # Ignore all logfiles and tempfiles.
 /log/*
